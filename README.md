@@ -75,7 +75,7 @@ and created the relationship in the data model.
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard](screenshorts/Main Dashboard.png)
+![HR Dashboard](screenshorts/MainDashboard.png)
 
 ---
 
